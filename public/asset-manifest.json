@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be5240aa.chunk.css",
+    "main.js": "/static/js/main.24a07ef6.chunk.js",
+    "main.js.map": "/static/js/main.24a07ef6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5c9c2cd0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5c9c2cd0.js.map",
+    "static/js/2.87d9d158.chunk.js": "/static/js/2.87d9d158.chunk.js",
+    "static/js/2.87d9d158.chunk.js.map": "/static/js/2.87d9d158.chunk.js.map",
+    "static/js/3.4b5f2437.chunk.js": "/static/js/3.4b5f2437.chunk.js",
+    "static/js/3.4b5f2437.chunk.js.map": "/static/js/3.4b5f2437.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.be5240aa.chunk.css.map": "/static/css/main.be5240aa.chunk.css.map",
+    "static/js/2.87d9d158.chunk.js.LICENSE.txt": "/static/js/2.87d9d158.chunk.js.LICENSE.txt",
+    "static/media/a3.mp3": "/static/media/a3.173727b8.mp3",
+    "static/media/bright-light-bulb-svgrepo-com.565c6610.svg": "/static/media/bright-light-bulb-svgrepo-com.565c6610.svg",
+    "static/media/c-4.mp3": "/static/media/c-4.eef4047c.mp3",
+    "static/media/c-5.mp3": "/static/media/c-5.ba390be7.mp3",
+    "static/media/c5.mp3": "/static/media/c5.ac16f5e2.mp3",
+    "static/media/c6.mp3": "/static/media/c6.b155106d.mp3",
+    "static/media/d3.mp3": "/static/media/d3.0765094f.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c9c2cd0.js",
+    "static/js/2.87d9d158.chunk.js",
+    "static/css/main.be5240aa.chunk.css",
+    "static/js/main.24a07ef6.chunk.js"
+  ]
+}
